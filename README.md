@@ -10,3 +10,7 @@
 
 ## 附上3dm mod的下载地址
 > https://mod.3dmgame.com/mod/40490
+
+## PS
+
+1. bat文件为了显示中文采用ANSI编码，网页上UTF-8可能看到乱码，没有关系
