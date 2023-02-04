@@ -5,12 +5,8 @@
 
 ## 如何使用
 
-1. 下载本本项目中的dota2_mod_ansi.bat脚本，比如到桌面
-2. 使用win+R键打开运行
-4. 输入cmd回车打开命令行工具
-5. 运行脚本（比如脚本在桌面）：
-cd Desktop
-dota2_mod_ansi.bat
+1. 下载mod
+2. 下载本项目中的dota2_mod_ansi.bat脚本双击运行
 
 ## 附上3dm mod的下载地址
 > https://mod.3dmgame.com/mod/40490
